@@ -1,5 +1,5 @@
 <?php 
-require_once('calculator.php'); 
+require_once('cal.php'); 
 ?>
 <!doctype html>
 <head>
@@ -44,5 +44,4 @@ require_once('calculator.php');
   </center>
 </div>
 </body>
-
 </html>
